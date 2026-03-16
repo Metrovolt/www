@@ -1,7 +1,7 @@
   body {
 	    font-family: 'Bebas Neue', cursive;
-	    color: #04291d;
-            background: #ccdcd4;
+	    color: #3B77CF;
+            background: #161D37;
 
          }
 
@@ -33,17 +33,17 @@
 	   }
 
         a:link {
-          color: #04291d;
+          color: #3B77CF;
         }
 
         a:visited {
-          color: #04291d;
+          color: #3B77CF;
         }
 
         a:hover {
-          color: #118a62;
+          color: #3B77CF;
         }
 
         a:active {
-          color: #04291d;
+          color: #3B77CF;
         }
