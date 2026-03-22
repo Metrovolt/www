@@ -38,6 +38,21 @@ body {
       margin: 35px auto;
       max-width: 460px;
       box-shadow: 0 0 10px rgba(64, 160, 255, 0.35);
+          a:link {
+  color: e0f0ff;
+}
+
+a:visited {
+  color: e0f0ff;
+}
+
+a:hover {
+  color: e0f0ff;
+}
+
+a:active {
+  color: e0f0ff;
+}
     }
     .emergency-title {
       color: #80e0ff;
@@ -52,11 +67,28 @@ body {
       letter-spacing: 2px;
       text-shadow: 0 0 20px rgba(0, 240, 255, 0.7);
       margin: 12px 0;
+          
     }
     .email {
       font-size: 19px;
       color: #a0d0ff;
       margin: 20px 0 8px;
+        
+          a:link {
+  color: e0f0ff;
+}
+
+a:visited {
+  color: e0f0ff;
+}
+
+a:hover {
+  color: e0f0ff;
+}
+
+a:active {
+  color: e0f0ff;
+}
     }
     .bottom {
       margin-top: 30px;
