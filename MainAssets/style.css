@@ -72,3 +72,19 @@ body {
         radial-gradient(circle at 80% 70%, rgba(0, 120, 255, 0.05) 0%, transparent 50%);
       z-index: -1;
     }
+
+a:link {
+  color: e0f0ff;
+}
+
+a:visited {
+  color: e0f0ff;
+}
+
+a:hover {
+  color: e0f0ff;
+}
+
+a:active {
+  color: e0f0ff;
+}
